@@ -1,5 +1,5 @@
-## 量博c++面试
-吴嘉诚 同济软工 
+## Company1 c++面试
+ 
 struct 和 class 的区别 
 1 struct 和 class 的访问权限不同 其他一样
 2 struct 通常被用作 数据union
@@ -30,10 +30,9 @@ hashtable rehash
 
 vector 扩容 用的是移动 怎么返回vector 不调用 拷贝构造
 
-inplace_back是什么
+inplace_back push_back是什么
 
 clear以后 capacity 还是原来的 曾经用的是swap去改 现在用的方法 shrinktofit()
-
 
 
 vector 自从有了移动后 就不会拷贝了 没有移动的时候 写函数都是传引用或是指针
