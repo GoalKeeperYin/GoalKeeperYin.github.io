@@ -1,3 +1,12 @@
-# something about the interview
+# Something About The Interview
 
-[LB](./LB/LiangboCPP.md)
+## DEV
+[LB](./DEV/LB.md)
+[ML](./DEVL/ML.md)
+[Bloomberg](./DEV/BLOOMBERG.md)
+
+## Quant
+Todo
+
+## Reading List
+[Here](./Reading/index.md)
