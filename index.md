@@ -2,7 +2,7 @@
 
 ## DEV
 [LB](./DEV/LB.md)
-[ML](./DEVL/ML.md)
+[ML](./DEV/ML.md)
 [Bloomberg](./DEV/BLOOMBERG.md)
 
 ## Quant
