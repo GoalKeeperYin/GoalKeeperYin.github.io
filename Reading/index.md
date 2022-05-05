@@ -48,6 +48,8 @@ Clean Code
 
 Fluent Python
 
+我是高频交易工程师 github
+
 ## Source
 
 https://www.douban.com/doulist/149634475/
